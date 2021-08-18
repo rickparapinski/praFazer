@@ -4,7 +4,7 @@
 
 ### About the project
 
-Okie, sorry in advance for the cliche, but for my first app in React, we did the tradional to do app. It handle the state (done or not) and you can also add and delete tasks.
+Okie, sorry in advance for the cliche, but it's necessary. A traditional todo app made in React. It manage the state of the task (done or not) and you can also add and delete tasks.
 
 
-### 🚀 This project it's part of the Rocketseat Ignite Bootcamp
+> 🚀 This project it's part of the Rocketseat Ignite Bootcamp
